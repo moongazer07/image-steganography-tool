@@ -1,4 +1,4 @@
-!stego logo](https://cdn.mos.cms.futurecdn.net/owYTb9X5fKpeBhgiaxD73b-970-80.jpg.webp)
+![stego logo](https://cdn.mos.cms.futurecdn.net/owYTb9X5fKpeBhgiaxD73b-970-80.jpg.webp)
 this is image steganography tool
 aka stego
 to use select your image and zip and drag them to the exe when it says open with stego realease and stego will hide the zip in the image the result image is named new-image

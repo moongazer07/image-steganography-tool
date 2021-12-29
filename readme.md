@@ -1,4 +1,4 @@
-this is image stegonograpy tool
+this is image steganography tool
 aka stego
 to use select your image and zip and drag them to the exe when it says open with stego realease and stego will hide the zip in the image the result image is named new-image
 you can use bmp gif ico jpg png tif

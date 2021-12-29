@@ -10,6 +10,6 @@ you need windows for now
 i may work on stego or different operatin systems
 feel free to decompile stego for the source code
 stego is written in python 3
-tutorial
 
-![tutorial](https://cdn.discordapp.com/attachments/887488897934848041/925612526576746496/3.mp4)
+tutorial
+https://user-images.githubusercontent.com/74023677/147628674-839a5c7a-3f65-408a-90c0-d2ec85d36209.mp4

@@ -12,4 +12,9 @@ feel free to decompile stego for the source code
 stego is written in python 3
 
 tutorial
-https://user-images.githubusercontent.com/74023677/147628674-839a5c7a-3f65-408a-90c0-d2ec85d36209.mp4
+
+
+
+
+https://user-images.githubusercontent.com/74023677/147628763-cd204916-3c72-4446-8875-90f45d47dd76.mp4
+
